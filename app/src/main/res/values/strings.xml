@@ -1,0 +1,10 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Services</string>
+
+	<!-- Main -->
+	<string name="main_libelle_bouton_compteur">+</string>
+	<string name="main_libelle_bouton_detail">Page secondaire</string>
+
+</resources>

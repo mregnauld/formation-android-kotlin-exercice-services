@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Commun -->
+	<dimen name="commun_taille_bouton_compteur">120dp</dimen>
+	<dimen name="commun_taille_libelle_bouton_compteur">60sp</dimen>
+
+	<!-- Main -->
+	<dimen name="main_taille_libelle_bouton_detail">18sp</dimen>
+
+</resources>
